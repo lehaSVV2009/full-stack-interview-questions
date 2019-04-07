@@ -1,5 +1,5 @@
 # spring-react-interview-questions
-Вопросы на собеседовании/интервью Full stack разработчика (Java, Javascript, Spring, React)
+Подбор ссылок для собеседования/интервью Full stack разработчика (Java, Javascript, Spring, React)
 
 ## Java
 
