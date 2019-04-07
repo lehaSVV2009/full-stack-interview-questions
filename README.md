@@ -54,3 +54,4 @@
 * AWS основы - https://github.com/lehaSVV2009/aws-training
 * Виды тестирования - 
 * Наиболее популярные команды Shell - 
+* Scrum vs Kanban: в чем разница и что выбрать? - https://habr.com/ru/company/hygger/blog/351048/
