@@ -15,7 +15,7 @@
 
 ## SQL
 
-* [SQL в вопросах и ответах к интевью Java разработчика](https://github.com/enhorse/java-interview#sql)
+* SQL в вопросах и ответах к интевью Java разработчика - https://github.com/enhorse/java-interview#sql
 * [Leetcode алгоритмы SQL](https://leetcode.com/problemset/database/)
 
 ## JavaScript
