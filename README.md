@@ -41,10 +41,10 @@
 * Преимущества и недостатки микросервисной архитектуры - https://www.youtube.com/watch?v=7WT_Rl6m2DU
 * Retry vs Circuit Breaker - http://blog.rogatnev.net/2016/05/retry-vs-circuit-breaker.html
 * Краткий обзор 10 популярных архитектурных шаблонов приложений - https://medium.com/nuances-of-programming/%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-10-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-81647be5c46f
-* SOLID - 
+* SOLID - https://medium.com/webbdev/solid-4ffc018077da
 * 12 factor app - https://12factor.net/ru/
-* Domain Driven Design - 
-* Clean architecture - 
+* Domain Driven Design sample - https://github.com/citerus/dddsample-core
+* Clean architecture - https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2
 
 ## Other
 
@@ -52,6 +52,6 @@
 * REST API - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 * Docker основы - https://github.com/lehaSVV2009/docker-training
 * AWS основы - https://github.com/lehaSVV2009/aws-training
-* Виды тестирования - 
-* Наиболее популярные команды Shell - 
+* Separate Unit, Integration, and Functional Tests for Continuous Delivery - https://medium.com/pacroy/separate-unit-integration-and-functional-tests-for-continuous-delivery-f4dc240d8f2f
+* Наиболее популярные команды Shell - https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner
 * Scrum vs Kanban: в чем разница и что выбрать? - https://habr.com/ru/company/hygger/blog/351048/
