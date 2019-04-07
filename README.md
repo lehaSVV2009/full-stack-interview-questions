@@ -4,7 +4,7 @@
 ## Java
 
 * Вопросы и ответы к интевью Java разработчика - https://github.com/enhorse/java-interview
-* Канал с видео из Java конференций - https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g
+* Канал с видео из Java конференций (JUG.ru, JPoint, Joker) - https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g
 
 ## Spring и Hibernate 
 
