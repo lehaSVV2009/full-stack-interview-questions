@@ -34,6 +34,7 @@
 * React interview questions - https://github.com/sudheerj/reactjs-interview-questions
 * Последние изменения в React - https://github.com/facebook/react/blob/master/CHANGELOG.md
 * Material UI - https://material-ui.com/
+* A compilation of React Patterns, techniques, tips and tricks - https://vasanthk.gitbooks.io/react-bits/
 
 ## Architecture
 
