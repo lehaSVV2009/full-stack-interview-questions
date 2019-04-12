@@ -13,7 +13,7 @@
 * Spring потрошитель - https://www.youtube.com/watch?v=BmBr5diz8WA&t=37s
 * Документация Spring Data - https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 * Hibernate основы - https://github.com/lehaSVV2009/hibernate-training
-* Hibernate Guru blog - https://vladmihalcea.com/blog/
+* Hibernate Guru tutorial - https://vladmihalcea.com/tutorials/hibernate/
 * Hibernate стандартные ловушки - https://www.youtube.com/watch?v=C-wEZjEOhWc
 * Сделать Hibernate снова быстрым - https://www.youtube.com/watch?v=b52Qz6qlic0
 * Официальная страница Spring Cloud - https://spring.io/projects/spring-cloud
