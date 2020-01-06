@@ -1,5 +1,5 @@
 # spring-react-interview-questions
-Подбор материалов для подготовки к собеседованиям/интервью Full stack разработчика (Java, Javascript, Spring, React, SQL)
+Подбор материалов для подготовки к собеседованиям/интервью Full stack разработчика (Java, Javascript, Spring, React, NodeJS, SQL)
 
 ## Java
 
@@ -29,6 +29,8 @@
 ## JavaScript
 
 * Вопросы кандидату на должность front-end разработчика - https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/
+* Видео, объясняющее принцип Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+* И еще одно полезное видео про Event Loop - https://www.youtube.com/watch?v=cCOL7MC4Pl0
 
 ## React
 
@@ -37,6 +39,11 @@
 * Последние изменения в React - https://github.com/facebook/react/blob/master/CHANGELOG.md
 * Material UI - https://material-ui.com/
 * A compilation of React Patterns, techniques, tips and tricks - https://vasanthk.gitbooks.io/react-bits/
+
+## NodeJS
+
+* Вопросы и ответы на собеседовании - https://github.com/learning-zone/nodejs-interview-questions
+* Вопросы на собеседовании Senior Node.JS разработчику - https://medium.com/@jehy/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-senior-node-js-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83-3c955d7be006
 
 ## Architecture
 
@@ -51,7 +58,9 @@
 
 ## Other
 
-* Алгоритмы Leetcode - [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
+* Алгоритмы Leetcode - https://leetcode.com/problemset/algorithms/
+* Бесплатный курс по алгоритмам InterviewBit - https://www.interviewbit.com/practice/ 
+* Паттерны проектирования - https://refactoring.guru/ru/design-patterns
 * REST API - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 * Docker основы - https://github.com/lehaSVV2009/docker-training
 * AWS основы - https://github.com/lehaSVV2009/aws-training
