@@ -45,6 +45,7 @@
 
 * Вопросы и ответы на собеседовании - https://github.com/learning-zone/nodejs-interview-questions
 * Вопросы на собеседовании Senior Node.JS разработчику - https://medium.com/@jehy/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-senior-node-js-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83-3c955d7be006
+* Модули CommonJS и ESM - https://medium.com/devschacht/node-js-tc-39-and-modules-3813d2f37370
 
 ## Architecture
 
