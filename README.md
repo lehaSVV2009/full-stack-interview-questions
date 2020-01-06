@@ -31,6 +31,7 @@
 * Вопросы кандидату на должность front-end разработчика - https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/
 * Видео, объясняющее принцип Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * И еще одно полезное видео про Event Loop - https://www.youtube.com/watch?v=cCOL7MC4Pl0
+* Promises и async/await - TODO
 
 ## React
 
