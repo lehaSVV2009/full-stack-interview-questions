@@ -67,3 +67,4 @@
 * Separate Unit, Integration, and Functional Tests for Continuous Delivery - https://medium.com/pacroy/separate-unit-integration-and-functional-tests-for-continuous-delivery-f4dc240d8f2f
 * Наиболее популярные команды Shell - https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner
 * Scrum vs Kanban: в чем разница и что выбрать? - https://habr.com/ru/company/hygger/blog/351048/
+* Список списков вопросов к собеседованиям - https://github.com/MaximAbramchuck/awesome-interview-questions
