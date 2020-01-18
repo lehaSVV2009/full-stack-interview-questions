@@ -1,4 +1,4 @@
-# spring-react-interview-questions
+# full-stack-interview-questions
 Подбор материалов для подготовки к собеседованиям/интервью Full stack разработчика (Java, Javascript, Spring, React, NodeJS, SQL)
 
 ## Java
