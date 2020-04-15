@@ -29,6 +29,7 @@
 ## JavaScript
 
 * Вопросы кандидату на должность front-end разработчика - https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/
+* Визуальный обзор скиллов для веб-разработчика - https://andreasbm.github.io/web-skills/
 * Javascript. The Core - http://dmitrysoshnikov.com/
 * Видео, объясняющее принцип Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * И еще одно полезное видео про Event Loop - https://www.youtube.com/watch?v=cCOL7MC4Pl0
