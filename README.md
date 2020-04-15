@@ -34,7 +34,8 @@
 * Видео, объясняющее принцип Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * И еще одно полезное видео про Event Loop - https://www.youtube.com/watch?v=cCOL7MC4Pl0
 * Promises и async/await - TODO
-* Курс по тонкостям верстки (layouting, ...) - https://www.coursera.org/learn/tonkosti-verstki
+* Курс по Javascript от Яндекса - https://www.coursera.org/learn/javascript-prototipy
+* Курс по тонкостям верстки от Яндекса (layouting, ...) - https://www.coursera.org/learn/tonkosti-verstki
 
 ## React
 
