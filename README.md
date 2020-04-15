@@ -26,7 +26,7 @@
 * Hackerrank алгоритмы - https://www.hackerrank.com/domains/sql
 * SQL онлайн - http://www.sqlfiddle.com
 
-## JavaScript
+## JavaScript + CSS + HTML
 
 * Вопросы кандидату на должность front-end разработчика - https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/
 * Визуальный обзор скиллов для веб-разработчика - https://andreasbm.github.io/web-skills/
@@ -34,6 +34,7 @@
 * Видео, объясняющее принцип Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * И еще одно полезное видео про Event Loop - https://www.youtube.com/watch?v=cCOL7MC4Pl0
 * Promises и async/await - TODO
+* Курс по тонкостям верстки (layouting, ...) - https://www.coursera.org/learn/tonkosti-verstki
 
 ## React
 
@@ -68,6 +69,7 @@
 * REST API - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 * Docker основы - https://github.com/lehaSVV2009/docker-training
 * AWS основы - https://github.com/lehaSVV2009/aws-training
+* CSS основы - https://github.com/lehaSVV2009/css-training
 * Separate Unit, Integration, and Functional Tests for Continuous Delivery - https://medium.com/pacroy/separate-unit-integration-and-functional-tests-for-continuous-delivery-f4dc240d8f2f
 * Наиболее популярные команды Shell - https://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner
 * Scrum vs Kanban: в чем разница и что выбрать? - https://habr.com/ru/company/hygger/blog/351048/
