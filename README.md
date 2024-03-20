@@ -45,6 +45,10 @@
 * Material UI - https://material-ui.com/
 * A compilation of React Patterns, techniques, tips and tricks - https://vasanthk.gitbooks.io/react-bits/
 
+## VueJS
+
+* Vue 3 фундаментальный курс от А до Я - https://www.youtube.com/watch?v=XzLuMtDelGk&ab_channel=UlbiTV
+
 ## NodeJS
 
 * Вопросы и ответы на собеседовании - https://github.com/learning-zone/nodejs-interview-questions
