@@ -48,7 +48,7 @@
 ## Vue
 
 * Vue 3 фундаментальный курс от А до Я за 3 часа - https://www.youtube.com/watch?v=XzLuMtDelGk&ab_channel=UlbiTV
-* 300 вопросов по Vue JS - https://github.com/sudheerj/vuejs-interview-questions
+* 200 вопросов по Vue JS - https://github.com/sudheerj/vuejs-interview-questions
 
 ## NodeJS
 
